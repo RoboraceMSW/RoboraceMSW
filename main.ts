@@ -1,3 +1,4 @@
+let Aangepast_door_ous_27_9_251441 = 0
 basic.showLeds(`
     # # . . .
     . # # . .

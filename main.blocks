@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="nMI)s{s3HS;xEX/tJbr(" x="410" y="29"><statement name="HANDLER"><block type="device_show_leds" id="uX5Q:;k4K@s4WPK~}KeG"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="pz=k;9ut|b2kMPI^HOyr">Aangepast_door_ous_27_9_25-14-41</variable></variables><block type="pxt-on-start" id="nMI)s{s3HS;xEX/tJbr(" x="-3" y="-11"><statement name="HANDLER"><block type="variables_set" id="39v/RvD$N5ZQ_!%L`V5j"><field name="VAR" id="pz=k;9ut|b2kMPI^HOyr">Aangepast_door_ous_27_9_25-14-41</field><value name="VALUE"><shadow type="math_number" id="QGYFgM!FH$u9.t[g?3-c"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="uX5Q:;k4K@s4WPK~}KeG"><field name="LEDS">`
         # # . . . 
         . # # . . 
         . . # # . 
         . . . # # 
         . . . . #
-        `</field></block></statement></block><block type="device_forever" id="?^[JK2e|`vcv7_e@xwpM" x="625" y="109"><statement name="HANDLER"><block type="device_print_message" id="Kw}11BC2,Av3j..^ac3t"><value name="text"><shadow type="text" id="n^6)5=s_+SN?ex$F6Nxs"><field name="TEXT">Hello!</field></shadow></value></block></statement></block></xml>
+        `</field></block></next></block></statement></block><block type="device_forever" id="?^[JK2e|`vcv7_e@xwpM" x="263" y="166"><statement name="HANDLER"><block type="device_print_message" id="Kw}11BC2,Av3j..^ac3t"><value name="text"><shadow type="text" id="n^6)5=s_+SN?ex$F6Nxs"><field name="TEXT">Hello!</field></shadow></value></block></statement></block></xml>
